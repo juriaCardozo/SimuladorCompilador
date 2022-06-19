@@ -7,7 +7,7 @@ semântica são checadas se os comandos podem ser executados. No final destas an
 gerado um código intermediário, mais próximo da linguagem objeto e que ainda permite
 uma manipulação mais fácil do que o código de máquina.
 
-## Expecificações
+## Especificações
 Programa em C que recebe expressões alfa-numéricas no padrão de notação pós-fixada, 
 valida essas expressões e gera o correspondente código intermediário em um arquivo de saída.
 
